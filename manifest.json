@@ -1,0 +1,25 @@
+{
+  "name": "Tạo đánh giá theo khung năng lực, phẩm chất",
+  "short_name": "Đánh giá NL, PC",
+  "description": "Hệ thống Tạo đánh giá theo khung năng lực, phẩm chất",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1e40af",
+  "theme_color": "#1e40af",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/thuandesign/appchitieu-thuantruc/dc8beb9bb993c77b039cad96b4780afb9cdacd1e/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
