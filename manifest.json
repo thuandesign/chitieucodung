@@ -1,7 +1,7 @@
 {
-  "name": "Tạo đánh giá theo khung năng lực, phẩm chất",
-  "short_name": "Đánh giá NL, PC",
-  "description": "Hệ thống Tạo đánh giá theo khung năng lực, phẩm chất",
+  "name": "Chi tiêu cá nhân",
+  "short_name": "Chi tiêu CN",
+  "description": "Hệ thống Quản lý thu chi cá nhân chuyên nghiệp, tiện lợi quản lý mọi lúc mọi nơi",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
